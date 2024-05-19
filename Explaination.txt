@@ -1,0 +1,9 @@
+ One pager explaining how distributed computing reduced computation time
+ 
+ 1. So with distributed computing a broke down the satelite propagation task into single satelite poisiton deparsing into each individual subtask
+ 2. As the subtasks were independent, so MultiProcessing came into place
+ 3. With Multiprocessing, i tried utilising the available cores of the system.
+ 4. So with more number of cores , the task gets more effiecient.
+ 5. As i have machine limitation, i achieved a low reduced time, but with more cores, this gets better.
+ 6. Further my approach would be to use GPUs cores to further optimise it.
+ 7. And Hence By leveraging distributed computing technique, i tried optimising the code.
